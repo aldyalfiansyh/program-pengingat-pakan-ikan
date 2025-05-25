@@ -21,7 +21,7 @@
  - Mengingatkan pemberian pakan ikan 3 kali dalam dengan rentang waktu 4 jam. Pemberian pakan pertama dimulai pukul 08.00, yang kedua pukul 12.00, dan yang ketiga pukul 16.00.
 
 
-- Konsep yang digunakan:
+### Konsep yang digunakan:
  - Variabel
  - If-else
  - Function
