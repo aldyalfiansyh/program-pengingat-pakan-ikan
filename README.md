@@ -1,14 +1,14 @@
 # Mini Proyek - Coding untuk Kakak Tingkat
 ## Identitas Mahasiswa
-- Nama: Aldy Alfiansyah
+- Nama : Aldy Alfiansyah
 - NIM : 2409689
-- Kelas: 2A
+- Kelas : 2A
 
 
 ## Identitas Kakak Tingkat
-- Nama: Moh Fauzan Fakhira Nasihin
-- Angkatan: 2022
-- Program Studi: Pendidikan Sistem dan Teknologi Informasi
+- Nama : Moh Fauzan Fakhira Nasihin
+- Angkatan : 2022
+- Program Studi : Pendidikan Sistem dan Teknologi Informasi
 
 
 ## Permintaan Program
